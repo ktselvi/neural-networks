@@ -1,4 +1,4 @@
 PyTorch_exercises/__pycache__/
 *.ipynb_checkpoints/
 *.DS_Store
-
+*.pth
